@@ -1,0 +1,5 @@
+/train
+/test
+/images
+emotiondetector.h5
+*.h5
